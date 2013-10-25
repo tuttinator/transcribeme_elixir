@@ -1,3 +1,3 @@
 # TranscribemeElixir
 
-** TODO: Add description **
+TranscribeMe SOAP API wrapper, written in Elixir
